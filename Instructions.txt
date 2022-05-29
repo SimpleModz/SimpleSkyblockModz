@@ -1,0 +1,6 @@
+simpleScript
+
+1. SET A KEYBIND IN CONTROLS UNDER SIMPLESCRIPTS
+2. To choose what script you want download it from github
+3. If it doesnt work then reinstall java (java might be out of date)
+IT AUTO DETECTS YOUR FARM. IF IT DOES NOT WORK THEN  YOUR FARM IS INVALID
